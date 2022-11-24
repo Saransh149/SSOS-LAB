@@ -1,0 +1,5 @@
+START 100
+L MOV A 
+SUB 10
+ADD B 
+END
